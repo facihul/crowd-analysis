@@ -1,0 +1,5 @@
+Location      Number of People
+
+ site 1 ---------- moving people observed 68 
+site 2 ---------- moving people observed 212 
+site 3 ---------- moving people observed 86 
